@@ -1,0 +1,5 @@
+Metric,Average Score
+Precision (Weighted Avg),0.9710089883732177
+Recall (Weighted Avg),0.9752338659775053
+F1-Score (Weighted Avg),0.9680070408203854
+Accuracy,0.9752338659775053
